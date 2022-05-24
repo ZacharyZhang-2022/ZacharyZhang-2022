@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZacharyZhang-2022
+- 👋 Hi, I’m Zachary.
 - 👀 I’m interested in Machine Learning and Natural Language Processing.
 - 🌱 I’m currently learning NLP and ML.
 - 💞️ I’m looking to collaborate on NLP project
