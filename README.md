@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zachary.
 - 👀 I’m interested in Machine Learning and Natural Language Processing.
-- 🌱 I’m currently learning NLP and ML.
+- 🌱 I’m currently learning CV, NLP, VQA and ML.
 - 💞️ I’m looking to collaborate on NLP project
 - 📫 zacharyzhang2022@gmail.com
 
