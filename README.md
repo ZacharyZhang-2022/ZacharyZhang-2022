@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Zachary.
-- 👀 I’m interested in Machine Learning and Natural Language Processing.
-- 🌱 I’m currently learning CV, NLP, VQA and ML.
-- 💞️ I’m looking to collaborate on NLP project
-- 📫 zacharyzhang2022@gmail.com
+- 👀 I’m interested in Natural Language Processing amd Computer Vision and Biomedical domains.
+- 📫 x.zhang.6@research.gla.ac.uk
+- ✔ https://www.gla.ac.uk/pgrs/xizhang/
 
 <!---
 ZacharyZhang-2022/ZacharyZhang-2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
