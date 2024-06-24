@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zachary.
-- 👀 I’m interested in Natural Language Processing amd Computer Vision and Biomedical domains.
+- 👀 I’m interested in Natural Language Processing and Computer Vision and Biomedical domains.
 - 📫 x.zhang.6@research.gla.ac.uk
 - ✔ https://www.gla.ac.uk/pgrs/xizhang/
 
